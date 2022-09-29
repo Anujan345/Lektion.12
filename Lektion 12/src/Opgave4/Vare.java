@@ -1,4 +1,4 @@
-package src.Opgave4;
+package Opgave4;
 
 public abstract class Vare implements Vare1 {
     private int pris;

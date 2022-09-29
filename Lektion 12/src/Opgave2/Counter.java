@@ -1,4 +1,4 @@
-package src.Opgave2;
+package Opgave2;
 
 public class Counter {
     private int counter;

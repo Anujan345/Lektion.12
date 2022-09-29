@@ -1,4 +1,4 @@
-package src.Opgave4;
+package Opgave4;
 
 public interface Vare1 {
     int getPris();

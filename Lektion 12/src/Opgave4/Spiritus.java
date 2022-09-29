@@ -1,4 +1,4 @@
-package src.Opgave4;
+package Opgave4;
 
 public class Spiritus {
     private int prisen;

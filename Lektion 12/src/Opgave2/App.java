@@ -1,4 +1,4 @@
-package src.Opgave2;
+package Opgave2;
 
 public class App {
     public static void main(String[] args) {

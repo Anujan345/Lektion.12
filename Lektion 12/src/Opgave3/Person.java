@@ -1,4 +1,4 @@
-package src.Opgave3;
+package Opgave3;
 
 public class Person {
     private String navn;

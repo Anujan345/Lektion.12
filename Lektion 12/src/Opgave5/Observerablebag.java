@@ -1,4 +1,4 @@
-package src.Opgave5;
+package Opgave5;
 
 import java.util.*;
 import java.util.function.Consumer;
@@ -8,6 +8,10 @@ public class Observerablebag implements Bag,Iterable{
     ArrayList<Observer> observers = new ArrayList<>();
 
     public Observerablebag(){
+        createhashMap();
+    }
+
+    private void createhashMap(){
         hashMap = new HashMap<>();
     }
 

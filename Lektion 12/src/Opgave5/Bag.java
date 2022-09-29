@@ -1,4 +1,4 @@
-package src.Opgave5;
+package Opgave5;
 
 public interface Bag extends Subject {
 
